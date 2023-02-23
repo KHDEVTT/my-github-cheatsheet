@@ -48,4 +48,13 @@ git add .
 
 ```
 git commit -m "our message"
+
+# or we can commit and add commands together
+git commit -am "your message"
+```
+
+7. Push to remote
+
+```
+git push
 ```
