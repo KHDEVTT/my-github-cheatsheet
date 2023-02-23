@@ -43,3 +43,9 @@ git add <filename">
 # or
 git add .
 ```
+
+6. Committing our project files
+
+```
+git commit -m "our message"
+```
